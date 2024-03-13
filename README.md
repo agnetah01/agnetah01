@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agnetah01
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently front end and devops tools
+- 🌱 I’m currently learning front end and devops tools
 - 📫 How to reach me : email - agiezig11@gmail.com
 
 <!---
